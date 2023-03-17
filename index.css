@@ -1,0 +1,34 @@
+.logo{
+    padding-left:700px;
+}
+.titulo{
+    padding-left: 550px;
+}
+p{
+    padding-left: 550px;
+    al
+}
+.btn-group .btn {
+    font-size: var(--fs-btn);
+    letter-spacing : 1px;
+    font-weight:500;
+    padding: 15px 35px;
+    color:white;
+    border-radius: 10em;
+    border-bottom: 4px solid;
+}
+header{
+ background-image: url(./images/bg-header-desktop.png);
+ padding:left 14px;
+
+}
+.h3{
+    padding-left:;
+    text-align: center;
+}
+.p1{
+    text-align: justify;
+}
+.image-computer{
+
+}
